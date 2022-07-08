@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976238349112",
+    "project_id": "csms-e660f",
+    "storage_bucket": "csms-e660f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976238349112:android:fea99bdfaf30bef1430fcd",
+        "android_client_info": {
+          "package_name": "com.example.csms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976238349112-cs3bifuctri2k85is2gblb6ha5eo12qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb2ydbhIlXQ7pH_SNeTZ4jaJpDUK-X24A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976238349112-cs3bifuctri2k85is2gblb6ha5eo12qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
