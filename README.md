@@ -1,16 +1,31 @@
-# csms_app
 
-A new Flutter project.
+# Vaccination Module
 
-## Getting Started
+A Vaccination module for Covid 19 App developed using Flutter .
+## Users
 
-This project is a starting point for a Flutter application.
+This project focus on the following users:
 
-A few resources to get you started if this is your first Flutter project:
+- Malaysian Citizen and Foreigners
+- Ministry of Health 
+- Admin
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- To manage vaccination details.
+- To manage vaccination appointment
+- To manage digital vaccination certificate.
+- To manage vaccination status.
+
+
+
+## Authors
+
+- [@sarvessveeriyah2312](https://github.com/sarvessveeriyah2312)
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
